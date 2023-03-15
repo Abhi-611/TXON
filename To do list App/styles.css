@@ -1,0 +1,71 @@
+h2 {
+    font-family:arial;
+    margin-left: 100px;
+}
+
+p {
+  font-family: arial;
+  margin-left: 100px;
+  margin-top: -20px;
+}
+
+form {
+    display: inline-block;
+    margin-left: 100px;
+  
+}
+
+input:focus {
+  background: #d0e6f5;
+}
+
+input {
+  font-family: helvetica;
+  font-size: 12px;
+  border-radius: px;
+}
+
+#button{
+  display: inline-block;
+  height:20px;
+	width:70px;
+	background-color:#0074cc;
+	font-family:arial;
+	font-weight:bold;
+	color:#ffffff;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+}
+
+#button:hover{
+  
+  cursor: pointer;
+}
+
+.list {
+	font-family:arial;
+	color:#0074cc;
+  margin-left: 100px;
+  overflow: hidden;
+  width: 200px;
+  
+  
+  
+}
+
+.list:hover {
+  cursor: pointer;
+}
+
+/*.items:nth-child(odd) {
+  background-color: #f1f1f1;
+}*/
+
+.inst {
+  text-align: left;
+  width: 400px;
+  margin-left: 350px;
+  margin-top: -20px;
+  position: absolute;
+}
